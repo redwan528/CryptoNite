@@ -13,12 +13,14 @@ CryptoNite is a cutting-edge iOS app designed for cryptocurrency enthusiasts who
 - **Combine Framework:** Leverages the Combine framework for managing asynchronous events and data streams, enhancing the app's responsiveness and performance.
 
 ## Technologies Used
-- **Swift:** A powerful and intuitive programming language for iOS development.
-- **CoinGecko API:** A robust and free API service for accessing live cryptocurrency data.
-- **Core Data:** A framework for managing the model layer objects in iOS applications, used for data persistence.
-- **FileManager:** Used for storing and retrieving images and other data on the device's file system.
-- **MVVM Pattern:** An architectural pattern that separates the development of the graphical user interface from the development of the business logic or back-end logic.
-- **Combine Framework:** A framework that provides a declarative Swift API for processing values over time, simplifying the management of asynchronous events.
+- **Swift:** A powerful and intuitive programming language for iOS, iPadOS, macOS, watchOS, and tvOS app development.
+- **SwiftUI:** A modern, declarative framework for building user interfaces across all Apple platforms, enabling simpler and more concise code for UI development.
+- **CoinGecko API:** A comprehensive and free API service for accessing live cryptocurrency data.
+- **Core Data:** A framework for managing the model layer objects in an application, used here for persistent data storage.
+- **FileManager:** Utilized for efficient file management, including storing and retrieving images on the device.
+- **MVVM Pattern:** An architectural pattern that promotes a clean separation of concerns, employed alongside SwiftUI to facilitate scalable and maintainable code.
+- **Combine Framework:** A framework for handling asynchronous events through declarative Swift APIs, enhancing app responsiveness and performance.
+
 
 ## Getting Started
 
